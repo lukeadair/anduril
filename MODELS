@@ -47,6 +47,8 @@ Model     MCU         Name
 0313      attiny85    lumintop-fw3a-nofet
 0314      attiny1634  lumintop-fw3x-lume1
 0315      attiny1634  lumintop-fw3x-lume1-rgbswap
+0316      attiny1616  lumintop-fw3a-1616
+0317      attiny1616  lumintop-fw3a-1616-2ch
 0321      attiny85    lumintop-blf-gt
 0322      attiny85    lumintop-blf-gt-mini
 0411      attiny85    fireflies-rot66
