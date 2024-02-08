@@ -49,6 +49,8 @@ Model     MCU         Name
 0315      attiny1634  lumintop-fw3x-lume1-rgbswap
 0316      attiny1616  lumintop-fw3a-1616
 0317      attiny1616  lumintop-fw3a-1616-2ch
+0318      attiny1616  lumintop-fw3a-1616-sft40
+0319      attiny1616  lumintop-fw3a-1616-219
 0321      attiny85    lumintop-blf-gt
 0322      attiny85    lumintop-blf-gt-mini
 0411      attiny85    fireflies-rot66
