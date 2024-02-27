@@ -53,6 +53,7 @@ Model     MCU         Name
 0319      attiny1616  lumintop-fw3a-1616-219
 0321      attiny85    lumintop-blf-gt
 0322      attiny85    lumintop-blf-gt-mini
+0331      attiny85    lumintop-fwaa
 0411      attiny85    fireflies-rot66
 0412      attiny85    fireflies-rot66-219
 0413      attiny85    fireflies-rot66g2
