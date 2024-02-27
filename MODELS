@@ -44,6 +44,7 @@ Model     MCU         Name
 0274      attiny1634  hank-noctigon-dm11-sbt90
 0311      attiny85    lumintop-fw3a
 0312      attiny85    lumintop-fw3a-219
+0323      attiny85    lumintop-fw3a-519
 0313      attiny85    lumintop-fw3a-nofet
 0314      attiny1634  lumintop-fw3x-lume1
 0315      attiny1634  lumintop-fw3x-lume1-rgbswap
