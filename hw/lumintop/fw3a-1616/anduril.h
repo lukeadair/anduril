@@ -65,6 +65,9 @@
 #define POLICE_COLOR_STROBE_CH1        CM_AUXRED
 #define POLICE_COLOR_STROBE_CH2        CM_AUXBLU
 
+// can't reset the normal way because power is connected before the button
+#define USE_SOFT_FACTORY_RESET
+
 // don't blink mid-ramp
 // #ifdef BLINK_AT_RAMP_MIDDLE
 // #undef BLINK_AT_RAMP_MIDDLE
